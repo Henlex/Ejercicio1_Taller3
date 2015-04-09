@@ -7,7 +7,7 @@ Este repositorio sera utilizado para desarrollar el taller 3 de Desarrollo de So
   
   -Anderson Hincapie
   
-  -joan Sebastian Palacio
+  -Joan Sebastian Palacio
   
   -Daniel Florez
   
